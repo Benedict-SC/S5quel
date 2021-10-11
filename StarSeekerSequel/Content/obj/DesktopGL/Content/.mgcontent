@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/bigfloor.png</File>
+    <File>C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/debugroom.png</File>
+    <File>C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/fonts/OpenDyslexic.spritefont</File>
+    <File>C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/pronounSelector.png</File>
+    <File>C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/star_se.png</File>
+    <File>C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/textbox.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

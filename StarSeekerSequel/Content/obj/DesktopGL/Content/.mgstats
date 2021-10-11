@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/fonts/OpenDyslexic.spritefont","C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/bin/DesktopGL/Content/fonts/OpenDyslexic.xnb","FontDescriptionProcessor","SpriteFontContent",2019,267298,0.2748336
+"C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/textbox.png","C:/Users/djhol/source/repos/StarSeekerSequel/StarSeekerSequel/Content/bin/DesktopGL/Content/textbox.xnb","TextureProcessor","Texture2DContent",1062482,6325173,0.2528784
